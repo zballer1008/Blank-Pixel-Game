@@ -2,15 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"sPlatform",
   "bboxMode":0,
-<<<<<<< HEAD
-  "bbox_bottom":127,
-  "bbox_left":0,
-  "bbox_right":191,
-=======
   "bbox_bottom":255,
   "bbox_left":0,
   "bbox_right":479,
->>>>>>> 31d28e53697ca9af4cdf40f005668a0dacc3a01b
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
