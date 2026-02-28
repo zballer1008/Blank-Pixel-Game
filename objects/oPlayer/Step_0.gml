@@ -4,13 +4,14 @@ y_speed += grav
 if(keyboard_check(vk_right))
 {
 	x_speed = movement_speed
-	image_xscale = 1
+	image_xscale = -1
 
 }
 else if(keyboard_check(vk_left))
 {
 	x_speed = -movement_speed
-	image_xscale = -1
+	image_xscale = 1
+	
 }
 
 if(place_meeting(x,y+1, oSolid))
