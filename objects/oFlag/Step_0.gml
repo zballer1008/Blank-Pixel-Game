@@ -1,1 +1,4 @@
-room_goto_next()
+if (place_meeting(x, y, oPlayer))
+{
+    room_goto(Room2);
+}
