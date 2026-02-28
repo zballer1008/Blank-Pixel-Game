@@ -24,6 +24,7 @@
   },
   "name":"Blank Pixel Game",
   "resources":[
+    {"id":{"name":"oFlag","path":"objects/oFlag/oFlag.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"oPlatform","path":"objects/oPlatform/oPlatform.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
