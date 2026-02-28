@@ -17,7 +17,7 @@ if(place_meeting(x,y+1, oSolid))
 {
 	if(keyboard_check(vk_up))
 	{
-		y_speed = -6
+		y_speed = -8
 	}
 	else
 	{
