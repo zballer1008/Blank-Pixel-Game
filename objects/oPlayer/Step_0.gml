@@ -1,6 +1,7 @@
 x_speed = 0
 y_speed += grav
 
+show_debug_message("Carpet")
 if(keyboard_check(vk_right))
 {
 	x_speed = movement_speed

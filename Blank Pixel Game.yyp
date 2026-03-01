@@ -24,7 +24,9 @@
   },
   "name":"Blank Pixel Game",
   "resources":[
+    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"oFlag_1","path":"objects/oFlag_1/oFlag_1.yy",},},
     {"id":{"name":"oFlag","path":"objects/oFlag/oFlag.yy",},},
     {"id":{"name":"oPlatform","path":"objects/oPlatform/oPlatform.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
@@ -32,6 +34,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"id":{"name":"sFlag_1","path":"sprites/sFlag_1/sFlag_1.yy",},},
     {"id":{"name":"sFlag","path":"sprites/sFlag/sFlag.yy",},},
     {"id":{"name":"sPlatform","path":"sprites/sPlatform/sPlatform.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
