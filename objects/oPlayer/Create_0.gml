@@ -1,4 +1,4 @@
-movement_speed = 1
+movement_speed = 1.5
 
 grav = 0.5
 

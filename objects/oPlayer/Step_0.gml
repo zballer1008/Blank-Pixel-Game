@@ -17,7 +17,7 @@ if(place_meeting(x,y+1, oSolid))
 {
 	if(keyboard_check(vk_up))
 	{
-		y_speed = -8
+		y_speed = -7
 	}
 	else
 	{
@@ -26,7 +26,7 @@ if(place_meeting(x,y+1, oSolid))
 }
 
 
-if (y > room_height or y < 0 or x > room_width or x < 0)
+if (y > room_height or x > room_width or x < 0)
 {
 	room_restart()
 }
